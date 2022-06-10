@@ -6,7 +6,7 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 Select *
 From PortfolioProject.dbo.CovidDeaths
 Where continent is not null 
-order by 3,4
+order by 3,4 -- order by ordinal position of column in list i.e first column, second then third etc
 
 
 -- Select Data that we are going to be starting with
