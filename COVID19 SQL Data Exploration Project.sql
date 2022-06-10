@@ -1,3 +1,4 @@
+Skills used: Joins, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 SELECT *
 FROM PortfolioProject.dbo.CovidVaccinations$
@@ -98,6 +99,7 @@ order by 2,3
 
 -- TEMP TABLE
 
+IF OBJECT_ID(PortfolioProject..PercentPopulationVaccinated) is not null
 DROP TABLE IF EXISTS #PercentPopulationVaccinated -- useful if planning to make any alterations to the table below
 CREATE TABLE #PercentPopulationVaccinated
 (
