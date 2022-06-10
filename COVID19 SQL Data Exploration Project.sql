@@ -1,4 +1,4 @@
-Skills used: Joins, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+-- Skills used: Joins, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 SELECT *
 FROM PortfolioProject.dbo.CovidVaccinations$
