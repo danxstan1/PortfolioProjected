@@ -10,4 +10,5 @@ https://public.tableau.com/views/CovidDashboardTutorial_16552365446560/Dashboard
 RFM Analysis
 
 Sales Dashboard 1: https://public.tableau.com/app/profile/daniel.stanley/viz/Sales_Dashboard_1_16559989388860/SalesDash1?publish=yes
+
 Sales Dashboard 2: https://public.tableau.com/app/profile/daniel.stanley/viz/Sales_Dashboard_2_16559989757320/SalesDash2?publish=yes
